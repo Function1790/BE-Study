@@ -1,0 +1,19 @@
+{
+  "name": "be-study",
+  "version": "1.0.0",
+  "description": "bestudy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Function1790/BE-Study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Function1790/BE-Study/issues"
+  },
+  "homepage": "https://github.com/Function1790/BE-Study#readme"
+}
