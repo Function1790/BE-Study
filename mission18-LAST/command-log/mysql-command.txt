@@ -1,0 +1,12 @@
+create database code;
+use code;
+
+create table Posts (num int NOT NULL AUTO_INCREMENT, 
+title varchar(20), 
+content text, primary key(num)) 
+charset=utf8;
+
+insert into Posts (title, content) value("test", "this is test");
+insert into Posts (title, content) value("hello", "world");
+
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'root';
