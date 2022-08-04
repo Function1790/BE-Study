@@ -10,8 +10,8 @@ const app = express();
 [V] 1. 글 리스트
 [V] 2. 글 쓰기
 [V] 3. 글 읽기
-[ ] 4. 글 수정
-[ ] 5. 글 삭제
+[V] 4. 글 수정
+[V] 5. 글 삭제
 */
 
 print = (text) => console.log(text)
